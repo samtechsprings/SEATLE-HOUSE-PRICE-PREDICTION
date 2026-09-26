@@ -25,6 +25,7 @@ zip_code        - Zip code (postal code used in the USA)
 
 #3 DATA SOURCE:
  The dataset used in this project is HOUSE PRICE PREDICTION-SEATTLE, published by Samuel Cortinhas on kaggle
+ 
  Dataset-HOUSE PRICE PREDICTION-SEATTLE
  Platform-Kaggle
  Year-2022
