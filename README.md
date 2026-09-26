@@ -14,7 +14,7 @@ The dataset used is a real dataset of house prices sold in Seattle, Washington, 
  
  size        -     Total floor area of the property                                            
  size_units   -    Units of the previous measurement                                             
- lot_size -Total area of the land where the property is located. The lot belongs to the house owner 
+lot_size-Total area of the land where the property is located.The lot belongs to the houseowner 
  lot_size_units -  Units of the previous measurement                                          
 zip_code        - Zip code (postal code used in the USA)                                        
  price          - Price the property was sold for (US dollars)                                
