@@ -1,2 +1,3 @@
 # SEATLE-HOUSE-PRICE-PREDICTION
 This project covers the prediction of Seattle, Washing, USA  house prices using Ridge, RidgeCV Lasso and LassoCV regularization models.
+Once extreme outliers were removed and the data cleaned, a straightforward regularized linear model was able to explain roughly 64–65 % of the variance in house prices and reduce prediction error by a solid 40 % relative to the naïve baseline. The very small differences among the four regularized models suggest that, for this particular dataset, the choice between Ridge and Lasso (or between manual tuning and cross-validated tuning) matters less than simply applying sensible regularization.
