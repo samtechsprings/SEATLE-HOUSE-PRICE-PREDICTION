@@ -24,12 +24,13 @@ zip_code        - Zip code (postal code used in the USA)
 
 
 #3 DATA SOURCE:
- The dataset used in this project is HOUSE PRICE PREDICTION-SEATTLE, published by Samuel Cortinhas on kaggle
+
+The dataset used in this project is HOUSE PRICE PREDICTION-SEATTLE, published by Samuel Cortinhas on kaggle
  
- Dataset-HOUSE PRICE PREDICTION-SEATTLE
+Dataset-HOUSE PRICE PREDICTION-SEATTLE
  
- Platform-Kaggle
+Platform-Kaggle
  
- Year-2022
+Year-2022
  
- Source: https://www.kaggle.com/datasets/samuelcortinhas/house-price-prediction-seattle/data
+Source: https://www.kaggle.com/datasets/samuelcortinhas/house-price-prediction-seattle/data
