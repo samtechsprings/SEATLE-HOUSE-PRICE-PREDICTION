@@ -7,18 +7,18 @@ The dataset used is a real dataset of house prices sold in Seattle, Washington, 
 
 ## Features
 
- Feature          Description                                                                 
+ Feature  -        Description                                                                 
 
- beds             Number of bedrooms in the property                                          
- baths            Number of bathrooms in the property. Note: 0.5 corresponds to a half-bath                      (sink and toilet only, no tub or shower) 
+ beds      -       Number of bedrooms in the property                                          
+ baths    -        Number of bathrooms in the property. Note: 0.5 corresponds to a half-bath                      (sink and toilet only, no tub or shower) 
  
- size             Total floor area of the property                                            
- size_units       Units of the previous measurement                                           
-lot_size      Total area of the land where the property is located. The lot belongs
+ size        -     Total floor area of the property                                            
+ size_units   -    Units of the previous measurement                                           
+lot_size     - Total area of the land where the property is located. The lot belongs
                  to the house owner 
- lot_size_units   Units of the previous measurement                                          
-zip_code         Zip code (postal code used in the USA)                                        
- price            Price the property was sold for (US dollars)                                
+ lot_size_units -  Units of the previous measurement                                          
+zip_code        - Zip code (postal code used in the USA)                                        
+ price          - Price the property was sold for (US dollars)                                
 
 ## Useful Fact
  1 acre = 43,560 sqft
